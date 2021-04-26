@@ -1,0 +1,4 @@
+Signal,Description,V,Type,Spec.,If not used
+CSI[0-1]_C[+-],Differential CSI Clock,1.2V,Input,Optional,NC
+CSI[0-1]_D[0-1][+-],Differential CSI data channel,1.2V,IO,Optional,NC
+CSI0_D[2-3][+-],Differential CSI data channel,1.2V,IO,Optional,NC

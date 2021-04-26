@@ -1,0 +1,3 @@
+Signal,Description,V,Type,Spec.,If not used
+I2C[0-1]_SCL,Serial Clock,1.8V,OD/PU,Required,
+I2C[0-1]_SDA,Serial Data,1.8V,OD/PU,Required,

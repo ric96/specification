@@ -1,0 +1,29 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}IMPORTANT INFORMATION}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}NOTICE}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Trademarks}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}96Boards Branding}{4}{section.2.1}%
+\contentsline {chapter}{\numberline {3}96Boards Consumer Edition v2.0}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Hardware}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Hardware Feature Details}{5}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Functionality Requirements}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Standalone Functionality}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Maker Functionality}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Embedded OEM Functionality}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Additional Functionality}{14}{section.4.4}%
+\contentsline {chapter}{\numberline {5}96Boards Consumer Edition Software Requirements}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}License Compliance}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Hardware Enablement}{15}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Core Functionality}{15}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Software for Certified boards}{15}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Software for Certified Reference boards}{15}{section.5.5}%
+\contentsline {chapter}{\numberline {6}References}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Appendix}{18}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Expansion Connector Signal Description}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Pin Discretion}{20}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Single USB port Example}{23}{section.7.3}%
+\contentsline {chapter}{\numberline {8}2D Reference Drawings}{24}{chapter.8}%
+\contentsline {section}{\numberline {8.1}96Boards Consumer Edition V2.0 Standard Edition}{24}{section.8.1}%
+\contentsline {section}{\numberline {8.2}96Boards Consumer Edition V2.0 Extended Edition}{25}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Mezzanine Boards and Modules}{28}{chapter.9}%

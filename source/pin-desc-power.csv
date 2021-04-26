@@ -1,0 +1,4 @@
+Signal,Description,V,Type,Spec.,If not used
++1.8V,1.8V Power reference (max 0.1A),1.8V,Output,Required,
++5V,5V System Power Supply,5V,Power,Required,
+SYS_DCIN,9-18V Input Power Supply,12V,Power,Required,

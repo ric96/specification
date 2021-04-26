@@ -1,0 +1,5 @@
+Signal,Description,V,Type,Spec.,If not used
+PCM_FS,PCM/I2S Word Clock,1.8V,Output,Required,
+PCM_CLK,PCM/I2S Bit clock,1.8V,Output,Required,
+PCM_DO,PCM/I2S Serial data out,1.8V,Output,Required,
+PCM_DI,PCM/I2S Serial data in,1.8V,Input,Optional,NC

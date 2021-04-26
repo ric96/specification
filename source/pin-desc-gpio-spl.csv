@@ -1,0 +1,8 @@
+Signal,Alternate Description,V,Type,Spec.,If not used
+GPIO-F,DSI_BLCTL,1.8V,Output,,
+GPIO-G,DSI_VSYNC,1.8V,Input,,
+GPIO-H,DSI_RST,1.8V,Output,,
+GPIO-I,CSI0_RST,1.8V,Output,,
+GPIO-J,CSI0_PWDN,1.8V,Output,,
+GPIO-K,CSI1_RST,1.8V,Output,,
+GPIO-L,CSI1_PWDN,1.8V,Output,,

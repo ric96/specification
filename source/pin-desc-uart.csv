@@ -1,0 +1,7 @@
+Signal,Description,V,Type,Spec.,If not used
+UART0_RxD,Receive serial data,1.8V,Input,Required,
+UART0_TxD,Transmit serial data,1.8V,Output,Required,
+UART0_RTS,Request to Send control,1.8V,Output,Required,
+UART0_CTS,Clear to Send control,1.8V,Input,Required,
+UART1_RxD,Receive serial data,1.8V,Input ,Optional,NC
+UART1_TxD,Transmit serial data,1.8V,Output,Optional,NC

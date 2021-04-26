@@ -1,0 +1,4 @@
+Signal,Description,V,Type,Spec.,If not used
+DSI_CLK[+-],Differential DSI Clock,1.2V,Output,Required,NC
+DSI_D0[+-],Differential DSI data channel,1.2V,IO,Required,NC
+DSI_D[1-3][+-],Differential DSI data channel,1.2V,IO,Optional,NC

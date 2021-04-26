@@ -1,0 +1,8 @@
+Signal,Pin,,Pin,Signal
+SPK_P,Pin 1,,Pin 2,HP_P
+SPK_N,Pin 3,,Pin 4,HP_L
+GND,Pin 5,,Pin 6,HP_DET
+MIC1_IN,Pin 7,,Pin 8,+5V
+MIC2_IN,Pin 9,,Pin 10,SYS_DCIN2
+MIC_BIAS,Pin 11,,Pin 12,SYS_DCIN2
+GND,Pin 13,,Pin 14,GND

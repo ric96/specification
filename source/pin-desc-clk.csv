@@ -1,0 +1,3 @@
+Signal,Description,V,Type,Spec.,If not used
+CLK0/CSI0_MCLK,SoC Programmable Clock 0,1.8V,Output,Optional,NC or GPIO
+CLK1/CSI1_MCLK,SoC Programmable Clock 1,1.8V,Output,Optional,NC or GPIO

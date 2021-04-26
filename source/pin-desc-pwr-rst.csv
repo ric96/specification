@@ -1,0 +1,3 @@
+Signal,Description,V,Type,Spec.,If not used
+PWR_BTN_N,Power on/off external request,1.8V,Input,Required,
+RST_BTN_N,Reset external request,1.8V,Input,Required,

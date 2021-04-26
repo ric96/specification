@@ -1,0 +1,4 @@
+Signal,Description,V,Type,Spec.,If not used
+SD_DAT[0-3],Serial Data,3.3/1.8V,IO,Required,
+SD_SCLK,Serial Clock,3.3/1.8V,Output,Required,
+SD_CMD,Command,3.3/1.8V,IO,Required,

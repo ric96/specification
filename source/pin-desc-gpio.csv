@@ -1,0 +1,2 @@
+Signal,Description,V,Type,Spec.,If not used
+GPIO-[A-L],General Purpose I/O,1.8V,I/O,Required,

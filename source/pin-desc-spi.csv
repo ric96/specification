@@ -1,0 +1,5 @@
+Signal,Description,V,Type,Spec.,If not used
+SPI0_SCLK,Serial Clock,1.8V,Output,Required,
+SPI0_CS,Chip Select,1.8V,Output,Required,
+SPI0_DIN,Data In,1.8V,Input,Required,
+SPI0_DOUT,Data Out,1.8V,Output,Required,

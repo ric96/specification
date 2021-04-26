@@ -1,0 +1,3 @@
+Signal,Description,V,Type,Spec.,If not used
+HSIC_STR,HSIC strobe,1.2V,IO,Optional,NC
+HSIC_DATA,HSIC data,1.2V,IO,Optional,NC

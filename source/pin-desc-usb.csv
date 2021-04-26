@@ -1,0 +1,2 @@
+Signal,Description,V,Type,Spec.,If not used
+USB_D[+-],Differential USB data,USB,Output,Required,
